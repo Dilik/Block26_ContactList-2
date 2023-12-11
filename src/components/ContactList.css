@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto; /* Center the table */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  thead {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  
+  th {
+    text-align: center;
+  }

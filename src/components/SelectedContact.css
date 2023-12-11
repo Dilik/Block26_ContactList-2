@@ -1,0 +1,35 @@
+.selected-contact {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #1478dc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Align all text to the left */
+}
+
+.contact-property {
+  margin-bottom: 10px;
+}
+
+.nested-property {
+  margin-left: 20px;
+}
+
+.go-back-button {
+  background-color: #09960d; /* Green color */
+  color: #fcfcfc;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 15px;
+  display: block; /* Center the button */
+  margin: 0 auto; /* Center the button */
+}
+
+.go-back-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}

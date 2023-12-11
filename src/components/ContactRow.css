@@ -1,0 +1,14 @@
+tr {
+    background-color: #1478dc;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  tr:hover {
+    background-color: #127fd9;
+  }
+  
+  td {
+    padding: 12px;
+    text-align: center;
+  }
